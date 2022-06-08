@@ -10,7 +10,6 @@ import shutil
 import threading
 import time
 
-# source = "D:\\folder\\New folder (3)\\0000new photos random/"
 source = "assets/"
 dest = "sorted/"
 
